@@ -1,0 +1,158 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "Montserrat";
+  color: #40514E;
+}
+h1,
+h2,
+h3 {
+  margin: 0;
+  color: #66BFBF;
+}
+.top {
+  background-color: #EAF6f6;
+  padding-top: 120px;
+}
+
+.top h1{
+  margin-bottom: 50px;
+  font-size: 80px;
+  font-family: 'Sacramento';
+}
+
+
+.top h2{
+  font-size: 35px;
+  font-family: 'Montserrat';
+}
+
+.top-cloud1 {
+  position: absolute;
+  right: 250px;
+  width: 200px;
+  top: -30px;
+
+}
+.top-cloud2 {
+  position: absolute;
+  left: 300px;
+  top: 280px;
+  width: 200px;
+
+}
+.top-mountain {
+  width: 30%;
+  margin-top: 100px;
+
+}
+.profile-img {
+
+  height: 150px;
+  width: 150px;
+  border-radius: 75px;
+  object-fit: cover;
+}
+.middle1 {
+  width: 40%;
+  margin: 100px auto;
+  font-size: 22px;
+}
+.middle1 h2 {
+  margin-top: 12px;
+  font-size: 40px;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 100px;
+}
+
+
+.skill-img1 {
+  width: 200px;
+  float: left;
+  margin-right: 15px;
+  }
+.skill-img2 {
+  width: 200px;
+  float: right;
+  margin-left: 15px;
+
+}
+.middle2 h2 {
+  margin-top: 50px;
+  font-size: 40px;
+  position: relative;
+  top: 30px;
+}
+.middle2 {
+  margin-top: 50px;
+}
+.skill-img3 {
+  width: 200px;
+  float: left;
+  margin-right: 15px;
+}
+.skill {
+  text-align: left;
+  margin: 100px auto;
+  width: 50%;
+  font-size: 18px;
+}
+.skill h3 {
+  padding-top: 40px;
+}
+/*---------------------bottom---------------------------*/
+.bottom {
+  margin: 70px;
+}
+.bottom h2 {
+  font-size: 40px;
+  margin: 30px 0;
+}
+.bottom h3 {
+  margin: 30px 0;
+}
+.bottom p {
+  color: #40514E;
+  font-size: 18px;
+  margin: 30px 0;
+}
+.bottom button {
+  background-color: #11999E;
+  border-radius: 6px;
+  border-style: none;
+  color: white;
+  cursor: pointer;
+  font-family: "Montserrat";
+  font-size: 18px;
+  font-weight: bold;
+  margin: 30px 0;
+  padding: 15px 20px;
+}
+.bottom button:hover {
+  opacity: 0.7;
+}
+
+/*-----------------------------------------------------------*/
+/*------------------------links------------------------------*/
+.links {
+  background-color: #EAF6f6;
+  height: 80px;
+  padding: 50px;
+}
+.links a {
+  color: #11999E;
+  font-size: 22px;
+  margin: 0 20px;
+  text-decoration: none;
+}
+.links p {
+  color: #40514E;
+  font-size: 18px;
+  margin: 30px 0;
+}
+/*-----------------------------------------------------------*/
